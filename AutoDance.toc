@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: AutoDance
+## Author: Andesyv
+## Version: 1.0
+
+main.lua
